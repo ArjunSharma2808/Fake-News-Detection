@@ -1,4 +1,5 @@
 # Fake-News-Detection
+Using Naive Bayes Classifier
 
 This project is regarding Fake News Detection using Niave Bayes Classifier
 
